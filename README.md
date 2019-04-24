@@ -4,3 +4,9 @@
 
 - keyCode は非推奨となっています。
 - IE11では対応していません。
+
+Quick Start
+-----
+
+https://kidatti.github.io/input-key-checker-js/
+
